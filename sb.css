@@ -1,0 +1,364 @@
+@import url('https://www.w3schools.com/w3css/4/w3.css');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body{
+  background-color: #2e8b57;
+}
+.logo{
+  height: 125px;
+  width: 500px;
+  margin-left: 500px;
+}
+
+.menu{
+  font-size: 36px;
+  margin-top: 50px;
+  margin-left: 750px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.img-menu{
+  background: url("https://assets.stickpng.com/images/58428cc1a6515b1e0ad75ab1.png");
+  height: 280px;
+  width: 280px;
+  border: 5px solid black;
+  margin-left: 100px;
+  margin-top: -10px;
+  background-size: contain;
+}
+
+#p1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 500px;
+  margin-top: -600px;
+}
+
+#p1:hover {
+  background-color: #b48648;
+}
+
+#p2{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 720px;
+  margin-top: -80px;
+}
+
+#p2:hover {
+  background-color: #b48648;
+}
+
+#p3 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 940px;
+  margin-top: -80px;
+}
+
+#p3:hover {
+  background-color: #b48648;
+}
+
+#p4 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 500px;
+  margin-top: 20px;
+}
+
+#p4:hover {
+  background-color: #b48648;
+}
+
+#p5 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 720px;
+  margin-top: -80px;
+}
+
+#p5:hover {
+  background-color: #b48648;
+}
+
+#p6{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 940px;
+  margin-top: -80px;
+}
+
+#p6:hover {
+  background-color: #b48648;
+}
+
+#p7 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 500px;
+  margin-top: 20px;
+}
+
+#p7:hover {
+  background-color: #b48648;
+}
+
+#p8 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 720px;
+  margin-top: -79px;
+}
+
+#p8:hover {
+  background-color: #b48648;
+}
+
+#p9 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 940px;
+  margin-top: -79px;
+}
+
+#p9:hover {
+  background-color: #b48648;
+}
+
+#p10 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 500px;
+  margin-top: 25px;
+}
+
+#p10:hover {
+  background-color: #b48648;
+}
+
+#p11 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 720px;
+  margin-top: -80px;
+}
+
+#p11:hover {
+  background-color: #b48648;
+}
+
+#p12 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 940px;
+  margin-top: -80px;
+}
+
+#p12:hover {
+  background-color: #b48648;
+}
+
+#p13 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 500px;
+  margin-top: 25px;
+}
+
+#p13:hover {
+  background-color: #b48648;
+}
+
+#p14 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 720px;
+  margin-top: -77px;
+}
+
+#p14:hover {
+  background-color: #b48648;
+}
+
+#p15 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 940px;
+  margin-top: -79px;
+}
+
+#p15:hover {
+  background-color: #b48648;
+}
+
+#p16 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 500px;
+  margin-top: 25px
+}
+
+#p16:hover {
+  background-color: #b48648;
+}
+
+#p17 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 720px;
+  margin-top: -75px;
+}
+
+#p17:hover {
+  background-color: #b48648;
+}
+
+#p18 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 80px;
+  width: 200px;
+  font-size: 20px;
+  margin-left: 940px;
+  margin-top: -77px;
+}
+
+#p18:hover {
+  background-color: #b48648;
+}
+
+.img-drinks{
+  background:white;
+  border: 5px solid black;
+  height: 550px;
+  width: 400px;
+  margin-left: 1250px;
+  margin-top: -210px;
+  padding-left: 10px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.buttons {
+  margin-top: -250px;
+}
+
+
+#total {
+  width: 200px;
+  height: 50px;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+  margin-left: 150px;
+  margin-top: -300px;
+  background-color: khaki;
+  padding: 5px;
+  text-align: center;
+}
+
+#total:hover {
+  background-color: #b48648;
+}
+
+#cncl {
+  width: 200px;
+  height: 50px;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+  margin-left: 150px;
+  margin-top: 10px;
+  background-color: khaki;
+  padding: 5px;
+  text-align: center;
+}
+
+#cncl:hover {
+  background-color: #b48648;
+}
